@@ -1,11 +1,9 @@
-# Name of the Project
+# DOg App
 *****
-### Author : Name Date
+### Author : JOseph Wamiti
 ****
 ## Project Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The Dog Business ReactJS Web Application is an easy-to-use, full-featured web application that enables pet owners to manage the care of their dogs. The application allows users to store their dog's health records, schedule vet appointments, and access training resources. It also provides them with access to a wide range of dog services, such as grooming, boarding, and daycare. The application is interactive, allowing users to search for nearby services and connect with providers. It also offers dog owners the ability to share news, photos, and stories with other members of the community. With its intuitive interface and comprehensive features, the Dog Business ReactJS Web Application is an invaluable resource for pet owners.
 ******
 
 ## SCREENSHOTS
@@ -16,8 +14,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ********
 ## SetUp Instruction
 ### Requirements
-* [Lang](lang Url)
-* [Framework](Framework URL)
+* [Framework](https://tailwindcss.com/)
+* [Framework](https://reactjs.org/)
 * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
 * [Testing Platform](Platform URL)
 
@@ -34,10 +32,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * Open the folder location on terminal and use the following command to run app:
 
 ## How To Run It
->  $ pip install -r requirements.txt
+>  $ npm install
 To install all requirements
 
-> $ python3 manage.py runserver
+> $ npm start
 Then run server with the above command
 *****
 ## Live Link
@@ -52,13 +50,14 @@ Or you can access the web application directly via this [LINK.](link.com/)
 ## Technologies Used
 1. HTML
 2. MdBootstrap
-3. HTML
+3. Reactjs
 4. CSS
 5. JavaScript
+6. Tailwind css
 *****
 ## Contact Information
-* Email : example@gmail.com
+* Email : wamiti8711@gmail.com
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
+Copyright (c) 2023 Mugo Joseph Wamiti
